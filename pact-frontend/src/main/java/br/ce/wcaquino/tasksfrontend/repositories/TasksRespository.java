@@ -3,8 +3,6 @@ package br.ce.wcaquino.tasksfrontend.repositories;
 import br.ce.wcaquino.tasksfrontend.model.Todo;
 import org.springframework.web.client.RestTemplate;
 
-import java.util.List;
-
 public class TasksRespository {
 
     private String url;
